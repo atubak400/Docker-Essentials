@@ -23,12 +23,22 @@ mkdir "Docker Essentials"
 cd "Docker Essentials"
 ```
 
-5. Create files named `dockerfile` and `app.js` 
+5. Create files named `dockerfile` and `app.js`
 
 ```
 code dockerfile app.js
 ```
 
-6. Console.log "Hello world" in app.js to confirm that node is installed and running. If you dont have node, download and install it.
+6. To create a simple "Hello" application, paste this code in app.js:
+
+```
+console.log("Hello Docker!");
+```
+
+7. Run this code on your terminal to confirm that node is installed and running. If you dont have node, download and install it.
+
+```
+node app.js
+```
 
 ![node app.js](./img/2.png)
