@@ -16,18 +16,19 @@ Docker version
 
 ![Docker Version](./img/1.png)
 
-4. Create a `Docker Essential` folder using:
+4. Create a `Docker Essential` folder and vavigate into it using:
 
 ```
 mkdir "Docker Essentials"
 cd "Docker Essentials"
 ```
 
-5. Create a new file named `dockerfile` and `app.js` 
+5. Create files named `dockerfile` and `app.js` 
 
 ```
 code dockerfile app.js
 ```
 
+6. Console.log "Hello world" in app.js to confirm that node is installed and running. If you dont have node, download and install it.
 
-
+![node app.js](./img/2.png)
