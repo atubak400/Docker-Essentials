@@ -52,7 +52,7 @@ WORKDIR /app
 CMD node app.js
 ```
 
-> The Dockerfile you've provided is a simple configuration for creating a Docker container that runs a Node.js application:
+> The code in the Dockerfile is a simple configuration for creating a Docker container that runs a Node.js application:
 
 * FROM node:alpine - This line specifies the base image for the container, using a lightweight version of Node.js based on Alpine Linux.
 * COPY . /app - This command copies the contents of the current directory (where the Dockerfile is located) into the /app directory inside the container.
