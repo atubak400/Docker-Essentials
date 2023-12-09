@@ -117,7 +117,7 @@ docker push yourusername/hello-docker:latest
 
 ![node app.js](./img/10.png)
 
-17. You can now go to any laptop, virtual machine or container and download(pull) my image and runn my application.
+17. You can now go to any laptop, virtual machine or container and download(pull) my Hello Docker image and run my application successfully.
 
 ![node app.js](./img/11.png)
 
