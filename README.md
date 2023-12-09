@@ -116,3 +116,10 @@ docker push yourusername/hello-docker:latest
 16. Check Docker Hub to confirm pushed image.
 
 ![node app.js](./img/10.png)
+
+17. You can now go to any laptop, virtual machine or container and download(pull) my image and runn my application.
+
+![node app.js](./img/11.png)
+
+
+# Congratulations!
